@@ -1,0 +1,2 @@
+# Evry_Banking_Management_System_UI_new
+created the new repository for the Evry_Banking_Management_System_UI
